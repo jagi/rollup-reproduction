@@ -1,0 +1,7 @@
+{
+  "name": "rollupjs",
+  "version": "1.0.0",
+  "dependencies": {
+    "jagi-schema": "^1.0.0"
+  }
+}
