@@ -1,7 +1,11 @@
 {
   "name": "rollupjs",
   "version": "1.0.0",
+  "scripts": {
+    "build": "rollup index.js --o bundle.js --f cjs",
+    "start": "node bundle.js"
+  },
   "dependencies": {
-    "jagi-schema": "^1.0.0"
+    "some-test-package": "1.0.0"
   }
 }
